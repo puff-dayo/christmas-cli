@@ -1,7 +1,7 @@
-# Christmas Card CLI
+# Christmas CLI
 
 ## Introduction
-`Christmas Card CLI` is a command-line tool which generates an **animated** Christmas-themed display right in your **Windows** terminal(or cmd.exe).
+`Christmas CLI` is a command-line tool which generates an **animated** Christmas-themed display right in your **Windows** terminal(or cmd.exe).
 Let's bring some new year cheer.
 
 ## Project Description
